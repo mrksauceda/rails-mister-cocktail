@@ -8,4 +8,3 @@ class Dose < ApplicationRecord
   validates :ingredient, presence: true
 
 end
-
